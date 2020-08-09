@@ -104,7 +104,7 @@
 <table>
 <tbody>
 <tr>
-<td><center><img src="highlighter.png" width="450" height="500" /></center></td>
+<td><center><img src="highlighter.png" width="420" height="500" /></center></td>
 <td><center><img src="certificate.png" width="450" height="350" /></center></td>
 </tr>
 <tr>
