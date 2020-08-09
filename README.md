@@ -101,11 +101,13 @@
 
 <h2 dir='rtl' align='right'>مقتطفات</h2>
 
-<figure>
-    <img src="highlighter.png" height="500" width="450">
-    <figcaption>استخدام highlighter مع مستند محاور الأختبار الرسمية</figcaption>
-</figure>
+<p align='center'>
+  <figure>
+      <img src='highlighter.png' height='500' width='400'>
+    <figcaption dir='rtl'>sadsad</figcaption>
+  </figure>
+</p>
 
 <h2 dir='rtl' align='right'>التواصل</h2>
 
-<p dir='rtl' align='right'>يمكنك التواصل معي على تويتر: <span dir='ltr'><a href="https://www.twitter.com/AKhalil_90">@AKhalil_90</a></span></p>
+<p dir='rtl' align='right'>يمكنك التواصل معي على تويتر: <span dir='ltr'><a href='https://www.twitter.com/AKhalil_90'>@AKhalil_90</a></span></p>
