@@ -99,7 +99,7 @@
   <li>توكل على الله وابدأ التجهيز للاختبار.</li>
 </ul>
 
-<h2 dir='rtl' align='right'>Extras</h2>
+<h2 dir='rtl' align='right'>مقتطفات</h2>
 
 <table>
 <tbody>
