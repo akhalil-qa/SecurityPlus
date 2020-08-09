@@ -105,7 +105,7 @@
 <tbody>
 <tr>
 <td><center><img src="highlighter.png" width="450" height="500" /></center></td>
-<td><center><img src="certificate.png" width="450" height="500" /></center></td>
+<td><center><img src="certificate.png" width="450" height="350" /></center></td>
 </tr>
 <tr>
 <td dir="rtl"><center>استخدامي للـ highlighter على مستند المحاور الرئيسية الرسمي</center></td>
