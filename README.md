@@ -1,5 +1,7 @@
 <h1 dir='rtl' align='right'>تجربتي مع اختبار +CompTIA Security</h1>
 
+<center><img src='comptia_security_plus_logo.png'></img></center>
+
 <h2 dir='rtl' align='right'>مقدمة</h2>
 
 <p dir='rtl' align='right'>في هذا المقال سأقوم بمشاركتكم تجربتي مع شهادة CompTIA +Security (SY0-501) وكيف قمت بالتحضير للاختبار الخاص بها. أتمنى أن تكون أي من المصادر أو النصائح التي سأقوم بذكرها هنا مفيدة لأي شخص مقبل على التحضير للاختبار الخاص بالشهادة.</p>
