@@ -1,4 +1,4 @@
-<h1 dir='rtl' align='right'>تجربتي مع اختبار CompTIA Security+</h1>
+<h1 dir='rtl' align='right'>تجربتي مع اختبار +CompTIA Security</h1>
 
 <h2 dir='rtl' align='right'>مقدمة</h2>
 
