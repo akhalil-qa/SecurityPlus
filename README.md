@@ -99,15 +99,20 @@
   <li>توكل على الله وابدأ التجهيز للاختبار.</li>
 </ul>
 
-<h2 dir='rtl' align='right'>مقتطفات</h2>
+<h2 dir='rtl' align='right'>Extras</h2>
 
-<p align='center'>
-  <figure>
-      <img src='highlighter.png' height='500' width='400'>
-    <figcaption dir='rtl'>sadsad</figcaption>
-  </figure>
-</p>
-
+<table>
+<tbody>
+<tr>
+<td><center><img src="highlighter.png" width="450" height="500" /></center></td>
+<td><center><img src="certificate.png" width="450" height="500" /></center></td>
+</tr>
+<tr>
+<td dir="rtl"><center>استخدامي للـ highlighter على مستند المحاور الرئيسية الرسمي</center></td>
+<td dir="rtl"><center>صورة للشهادة :sunglasses:</center></td>
+</tr>
+</tbody>
+</table>
 <h2 dir='rtl' align='right'>التواصل</h2>
 
 <p dir='rtl' align='right'>يمكنك التواصل معي على تويتر: <span dir='ltr'><a href='https://www.twitter.com/AKhalil_90'>@AKhalil_90</a></span></p>
