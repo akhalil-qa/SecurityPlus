@@ -32,12 +32,12 @@
 
 <h2 dir='rtl' align='right'>المراجع المستخدمة في التحضير للاختبار:</h2>
 
-<p dir='rtl' align='right'>هذه المراجع التي استخدمتها خلال فترة التحضير:</p>
-<ol dir='rtl'>
-  <li>مستند المحاور الرئيسية والفرعية (Exam Objectives) من  <a href='https://www.comptia.org/certifications/security'>الصفحة الرئيسية</a> للشهادة. يمكن تحميل نسخة من المستند من هنا (تأكد أنك تقوم باستخدام أحدث نسخة من المستند عند البدء بالتحضير للاختبار).</li>
-  <li><a href='https://www.youtube.com/playlist?list=PLG49S3nxzAnnVhoAaL4B6aMFDQ8_gdxAy'>قناة Professor Messer</a> في اليوتيوب. قناة جبارة بمعنى الكلمة للتجهيز لاختبارات A+ و Network+ و Security+. فيما يخص جزئية Security+، يمكنك الذهاب إلى هذا الرابط والذي يحتوي على مجموعة الفيديوهات الخاصة بالشهادة (إجمالي 13 ساعة)، مرتبة حسب ترتيب المحاور الفرعية والرئيسة بمستند (Exam Objectives) الرسمي.</li>
-  <li><a href='https://www.udemy.com/course/comptia-security-practice-exams/'>كورس Json Dion</a> في موقع Udemy. هو ليس كورس بمعنى الكلمة، بل عدد (6) اختبارات تجريبية تحاكي بشكل كبير الاختبار الواقعي. تكلفة الكورس (11.99) باوند (جنية إسترليني).</li>
-  <li>اختبارات قصيرة مجانية في هذا <a href='https://www.examcompass.com/comptia/security-plus-certification/free-security-plus-practice-tests'>الرابط</a>. لم أقم بالاعتماد عليها بشكل كبير خلال أيام التحضير للاختبار.</li>
+<p dir="rtl" align="right">هذه المراجع التي استخدمتها خلال فترة التحضير:</p>
+<ul dir="rtl">
+<li><a href="https://www.comptia.org/certifications/security">مستند المحاور الرئيسية والفرعية (Exam Objectives)</a>: يمكن تحميل هذا المستند من الصفحة الرئيسية للشهادة (تأكد أنك تقوم باستخدام أحدث نسخة من المستند عند البدء بالتحضير للاختبار).</li>
+<li><a href="https://www.youtube.com/playlist?list=PLG49S3nxzAnnVhoAaL4B6aMFDQ8_gdxAy">قناة Professor Messer</a>: قناة في اليوتيوب. من وجهة نظري بأن القناة جبارة بمعنى الكلمة للتجهيز لاختبارات A+ و Network+ و Security+. فيما يخص جزئية Security+، يمكنك الذهاب إلى هذا الرابط والذي يحتوي على مجموعة الفيديوهات الخاصة بالشهادة (إجمالي 13 ساعة)، مرتبة حسب ترتيب المحاور الفرعية والرئيسة بمستند (Exam Objectives) الرسمي.</li>
+<li><a href="https://www.udemy.com/course/comptia-security-practice-exams/">كورس Json Dion في موقع Udemy</a>: هو ليس كورس بمعنى الكلمة، بل عدد (6) اختبارات تجريبية تحاكي بشكل كبير الاختبار الواقعي. تكلفة الكورس (11.99) باوند (جنية إسترليني).</li>
+<li><a href="https://www.examcompass.com/comptia/security-plus-certification/free-security-plus-practice-tests">اختبارات قصيرة مجانية</a>: مجموعة أسئلة واختبارات قصيرة مجانية. لم أقم بالاعتماد عليها بشكل كبير خلال فترة تحضري، حيث أكتفيت بالاختبارات التي قمت بشرائها من Udemy.</li>
 </ul>
 
 <p dir='rtl' align='right'>فقط هذه هي المراجع التي اعتمدت عليها للتحضير، حيث لم اعتمد هذه المرة على أي من الكتب في عملية التحضير، على عكس عادتي.</p>
