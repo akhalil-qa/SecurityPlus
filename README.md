@@ -99,6 +99,13 @@
   <li>توكل على الله وابدأ التجهيز للاختبار.</li>
 </ul>
 
+<h2 dir='rtl' align='right'>مقتطفات</h2>
+
+<figure>
+    <img src="highlighter.png" height="350" width="150">
+    <figcaption>استخدام highlighter مع مستند محاور الأختبار الرسمية</figcaption>
+</figure>
+
 <h2 dir='rtl' align='right'>التواصل</h2>
 
 <p dir='rtl' align='right'>يمكنك التواصل معي على تويتر: <span dir='ltr'><a href="https://www.twitter.com/AKhalil_90">@AKhalil_90</a></span></p>
