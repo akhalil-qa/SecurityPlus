@@ -102,7 +102,7 @@
 <h2 dir='rtl' align='right'>مقتطفات</h2>
 
 <figure>
-    <img src="highlighter.png" height="350" width="150">
+    <img src="highlighter.png" height="500" width="450">
     <figcaption>استخدام highlighter مع مستند محاور الأختبار الرسمية</figcaption>
 </figure>
 
