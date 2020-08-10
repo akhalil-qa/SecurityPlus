@@ -1,6 +1,6 @@
 <h1 dir='rtl' align='right'>تجربتي مع اختبار +CompTIA Security</h1>
 
-<p align="center"><img height='200' width='200' src='comptia_security_plus_logo.png'></img></p>
+<p align="center"><img height='75%' width='75%' src='banner.png'></img></p>
 
 <h2 dir='rtl' align='right'>مقدمة</h2>
 
